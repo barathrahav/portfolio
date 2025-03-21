@@ -3,7 +3,7 @@ Live Preview - [Click Here]((https://barathrahav-portfolio.netlify.app/)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/mockup.png" />
+  <img alt="Demo" src="public/Portfolio.jpeg" />
 </div>
 <br/>
 <br/>
