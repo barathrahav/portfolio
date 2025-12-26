@@ -29,7 +29,7 @@ export const Tech = styled.div`
 `;
 
 export const TechImg = styled.img`
-  height: 40px;
+  height: 45px;
   width: 40px;
   padding-bottom: 5px;
 `;

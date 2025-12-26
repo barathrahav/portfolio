@@ -3,24 +3,27 @@ export const ProjectList = [
   {
     img: "/Akshaa.jpeg",
     title: "Akshaa Nature",
-    description: "E-Commerce app for the 100% Organic Cosmetics for Face, Skin, Lips, Hair.",
-    tech_stack: ["Next.JS", "STRAPI (Headless CMS)", "AWS"],
+    description:
+      "E-Commerce app for the 100% Organic Cosmetics for Face, Skin, Lips, Hair.",
+    tech_stack: ["ReactJS", "Redux", "NodeJS", "Express", "AWS", "MongoDB"],
     github_url: "",
     demo_url: "https://itank.io/",
   },
   {
     img: "/Bellpepper.png",
     title: "Bell Pepper",
-    description: "Online Food Ordering App for Restaurant with payment gateway.",
-    tech_stack: ["ReactJS", "STRAPI (Headless CMS)", "AWS"],
+    description:
+      "Online Food Ordering App for Restaurant with payment gateway.",
+    tech_stack: ["ReactJS", "Redux", "NodeJS", "Express", "AWS", "MongoDB"],
     github_url: "",
     demo_url: "https://itank.io/",
   },
   {
     img: "/i_tank.jpeg",
     title: "i-Tank",
-    description: "Web app for the automation of water management system. Shows the real time data in graphical layout.",
-    tech_stack: ["HTML", "CSS", "Bootstrap", "JavaScript"],
+    description:
+      "Web app for the automation of water management system. Shows the real time data in graphical layout.",
+    tech_stack: ["ReactJS", "Redux", "NodeJS", "Express", "AWS", "MongoDB"],
     github_url: "",
     demo_url: "https://itank.io/",
   },
@@ -29,24 +32,26 @@ export const ProjectList = [
     title: "Bike Boss and Truck Boss",
     description:
       "Web app for the GPS tracking of all type of vehicles. Shows the real time data of the tracking system.",
-    tech_stack: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],
+    tech_stack: ["ReactJS", "Redux", "NodeJS", "Express", "AWS", "MongoDB"],
     demo_url: "http://www.igps.io/",
   },
   {
     img: "/ResumeGen.jpeg",
     title: "Resume Generator App",
-    description: "Online Resume Builder Application for all candidates. One of the easiest way to create your Resume.",
-    tech_stack: ['HTML', 'CSS', 'Bootstrap', 'JavaScript'],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+    description:
+      "Online Resume Builder Application for all candidates. One of the easiest way to create your Resume.",
+    tech_stack: ["HTML", "CSS", "Bootstrap", "JavaScript", "Netlify"],
+    github_url: " ",
+    demo_url: " ",
   },
   {
     img: "/Portfolio.jpeg",
     title: "Portfolio",
-    description: "A Webpage representation of Myself. In which use the attractive design in it.",
-    tech_stack: ['ReactJS', 'Bootstrap', 'JavaScript'],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+    description:
+      "A Webpage representation of Myself. In which use the attractive design in it.",
+    tech_stack: ["ReactJS", "Bootstrap", "JavaScript", "CSS", "Netlify"],
+    github_url: " ",
+    demo_url: " ",
   },
 ];
 
@@ -66,28 +71,55 @@ export const stackList = [
     name: "Bootstrap",
   },
   {
+    img: "https://img.icons8.com/color/48/tailwindcss.png",
+    name: "Tailwind CSS",
+  },
+  {
     img: "https://img.icons8.com/color/48/javascript--v1.png",
     name: "JavaScript",
   },
-  
+
   {
-    img: "https://img.icons8.com/ultraviolet/40/react--v1.png",
-    name: "ReactJS",
+    img: "https://img.icons8.com/officel/40/react.png",
+    name: "React",
   },
-  
-  
+
   {
-    img: "https://img.icons8.com/fluency/48/node-js.png",
-    name: "NodeJS",
+    img: "https://img.icons8.com/color/48/redux.png",
+    name: "Redux",
   },
-  {
-    img: "https://img.icons8.com/color/48/cms.png",
-    name: "CMS",
-  },
-  
+
   {
     img: "https://img.icons8.com/color/48/nextjs.png",
-    name: "Next.JS",
+    name: "Next.js",
+  },
+
+  {
+    img: "https://img.icons8.com/fluency/48/node-js.png",
+    name: "Node.js",
+  },
+
+  {
+    img: "https://img.icons8.com/color/48/python--v1.png",
+    name: "Python",
+  },
+
+  {
+    img: "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png",
+    name: "Java",
+  },
+
+  {
+    img: "https://img.icons8.com/color/48/spring-logo.png",
+    name: "Spring Boot",
+  },
+  {
+    img: "https://img.icons8.com/color/48/api.png",
+    name: "REST APIs",
+  },
+  {
+    img: "https://img.icons8.com/color/48/java-web-token.png",
+    name: "JWT",
   },
   {
     img: "https://img.icons8.com/color/48/mysql-logo.png",
@@ -98,13 +130,32 @@ export const stackList = [
     name: "MongoDB",
   },
   {
+    img: "https://img.icons8.com/color/48/npm.png",
+    name: "npm",
+  },
+  {
+    img: "https://img.icons8.com/color/48/vite.png",
+    name: "Vite",
+  },
+  {
     img: "https://img.icons8.com/color/48/amazon-web-services.png",
     name: "AWS",
   },
-  
+  {
+    img: "https://img.icons8.com/color/48/google-cloud-platform.png",
+    name: "GCP",
+  },
   {
     img: "https://img.icons8.com/color/48/git.png",
     name: "Git",
+  },
+  {
+    img: "https://img.icons8.com/color/48/netlify.png",
+    name: "Netlify",
+  },
+  {
+    img: "https://img.icons8.com/color/48/vercel.png",
+    name: "Vercel",
   },
   {
     img: "https://img.icons8.com/color/48/figma--v1.png",

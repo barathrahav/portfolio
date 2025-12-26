@@ -28,16 +28,17 @@ function About() {
             <br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              I am a passionate Web Developer based in
-              Erode, Tamil Nadu, India, with expertise in ReactJS, NextJS,
-              Node.js, Strapi, MongoDB, MySQL, Bootstrap, and Material UI. I
-              specialize in building scalable, high-performance e-commerce
-              platforms and web applications that enhance user experience and
-              business efficiency. A quick learner with a problem-solving
-              mindset, I thrive on exploring new technologies and optimizing
-              digital solutions. Committed to continuous learning, I stay
-              updated with industry trends to deliver cutting-edge, secure, and
-              responsive applications.
+              I am a passionate Full Stack Developer building scalable,
+              high-performance web and e-commerce applications using React,
+              Redux, Next.js, Node.js, Express, and Strapi, backed by databases
+              like MongoDB and MySQL. I specialize in developing scalable,
+              high-performance e-commerce platforms and user-centric web
+              solutions that drive business growth. A quick learner with a
+              strong problem-solving mindset, I enjoy exploring new technologies
+              and optimizing applications for performance, security, and
+              responsiveness. I am committed to continuous learning and staying
+              up to date with industry trends to deliver reliable, future-ready
+              digital solutions.
             </ScrollAnimation>
 
             <br />
